@@ -22,4 +22,9 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
+    <deliverable id="Flowers_deliverable2-1669027226820" name="Flowers deliverable2">
+        <context idref="flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
